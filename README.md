@@ -5,11 +5,11 @@
 
 ## Introduction
 
-🔐 Welcome to the Most Advanced Password Generator Program! This program was created by Anubhav Chaurasia to help you generate super-secure passwords for your various online accounts. Say goodbye to weak passwords and enhance your online security.
+🔐 Welcome To The Most Advanced Password Generator Program! This Program Was Created By Anubhav Chaurasia To Help You Generate Super-Secure Passwords For Your Various Online Accounts. Say GoodBye To Weak Passwords And Enhance Your Online Security.
 
 ## Features
 
-- 🚀 Generate passwords of various types:
+- 🚀 Generate Passwords Of Various Types:
   - Numeric Only
   - Alphanumeric
   - Alphanumeric + Special Characters
@@ -28,7 +28,7 @@
 
 ## Credits
 
-This password generator program is the creative work of Anubhav Chaurasia. It provides a user-friendly interface to create strong and secure passwords effortlessly.
+This Password Generator Program Is The Creative Work Of Anubhav Chaurasia. It Provides A User-Friendly Interface To Create Strong And Secure Passwords Effortlessly.
 
 ## License
 
